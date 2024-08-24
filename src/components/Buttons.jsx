@@ -1,7 +1,7 @@
 import React from "react";
 import satData from "./satData";
 
-const Buttons = ({ filterByType, setSat, displaySats }) => {
+const Buttons = ({filterByType, setSat, displaySats}) => {
   return (
     <div>
       {displaySats.map((sat, id) => (

@@ -1,6 +1,6 @@
 import React from "react";
 
-const Table = ({ sat }) => {
+const Table = ({sat}) => {
     return (
       <table>
         <thead>
